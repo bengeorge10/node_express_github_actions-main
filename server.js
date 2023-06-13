@@ -14,6 +14,7 @@ app.get('/', function (req, res) {
     res.send("<h1>Home Page</h1>")
 })
 
+//test
 //http://localhost:3000/name
 app.get('/', function (req, res) {
   res.send("<h1>C0861079 - Ben</h1>")
